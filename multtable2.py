@@ -4,3 +4,4 @@ print()
 print(f"Таблица умножения для числа {num}:")
 for i in range(1, 11):
     print(f"{num} x {i} = {num * i}")
+print("Готово!")
